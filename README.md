@@ -13,6 +13,10 @@ their research.
 [<img align="left" alt="naveen_medium" width="25px" src="https://raw.githubusercontent.com/Automattic/social-logos/trunk/svg-min/medium.svg" />][medium]
 [<img align="left" alt="naveen_linkedin" width="25px" src="https://raw.githubusercontent.com/Automattic/social-logos/trunk/svg-min/linkedin.svg" />][linkedin]  
 
+### Medium Posts  
+<!-- BLOG-POST-LIST:START -->
+<!-- BLOG-POST-LIST:END -->
+
 [twitter]: https://twitter.com/naveenv_92
 [medium]: https://naveenvenkatesan.medium.com/
 [linkedin]: https://www.linkedin.com/in/naveenvenkatesan/

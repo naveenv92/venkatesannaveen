@@ -9,9 +9,9 @@ with other data scientists and experimental scientists who are interested in how
 their research. 
 
 ### Connect with me:  
-[<img align="left" alt="naveen_twitter" width="25px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/twitter.svg" />][twitter]  
-[<img align="left" alt="naveen_medium" width="25px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/medium.svg" />][medium]   
-[<img align="left" alt="naveen_linkedin" width="25px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/linkedin.svg" />][linkedin]  
+[<img align="left" alt="naveen_twitter" width="25px" src="https://raw.githubusercontent.com/Automattic/social-logos/trunk/svg-min/twitter.svg" />][twitter]  
+[<img align="left" alt="naveen_medium" width="25px" src="https://raw.githubusercontent.com/Automattic/social-logos/trunk/svg-min/medium.svg" />][medium]   
+[<img align="left" alt="naveen_linkedin" width="25px" src="https://raw.githubusercontent.com/Automattic/social-logos/trunk/svg-min/linkedin.svg" />][linkedin]  
 
 [twitter]: https://twitter.com/naveenv_92
 [medium]: https://naveenvenkatesan.medium.com/

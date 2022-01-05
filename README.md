@@ -17,6 +17,11 @@ their research.
 
 ### Medium Posts  
 <!-- BLOG-POST-LIST:START -->
+- [Intro to Comparing and Analyzing Multiple Unevenly Spaced Time-Series Signals](https://towardsdatascience.com/intro-to-comparing-and-analyzing-multiple-unevenly-spaced-time-series-signals-e46b2347972a?source=rss-7779ee5bf58d------2)
+- [Create Panel Figure Layouts in Matplotlib with Gridspec](https://towardsdatascience.com/create-panel-figure-layouts-in-matplotlib-with-gridspec-7ec79c218df0?source=rss-7779ee5bf58d------2)
+- [Create and Deploy a Simple Web Application with Flask and Heroku](https://towardsdatascience.com/create-and-deploy-a-simple-web-application-with-flask-and-heroku-103d867298eb?source=rss-7779ee5bf58d------2)
+- [Introduction to Go for Python Programmers](https://towardsdatascience.com/introduction-to-go-for-python-programmers-a0a729112a1b?source=rss-7779ee5bf58d------2)
+- [Pizza? Or Pasta? Create an Image Classifier with Keras in 30 Minutes](https://towardsdatascience.com/pizza-or-pasta-create-an-image-classifier-with-keras-in-30-minutes-e8ef5c8e2a31?source=rss-7779ee5bf58d------2)
 <!-- BLOG-POST-LIST:END -->
 
 [twitter]: https://twitter.com/naveenv_92

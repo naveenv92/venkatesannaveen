@@ -15,7 +15,7 @@ their research.
 
 &nbsp;  
 
-### Medium Posts  
+### Latest Medium Posts  
 <!-- BLOG-POST-LIST:START -->
 - [Intro to Comparing and Analyzing Multiple Unevenly Spaced Time-Series Signals](https://towardsdatascience.com/intro-to-comparing-and-analyzing-multiple-unevenly-spaced-time-series-signals-e46b2347972a?source=rss-7779ee5bf58d------2)
 - [Create Panel Figure Layouts in Matplotlib with Gridspec](https://towardsdatascience.com/create-panel-figure-layouts-in-matplotlib-with-gridspec-7ec79c218df0?source=rss-7779ee5bf58d------2)

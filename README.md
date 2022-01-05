@@ -11,7 +11,9 @@ their research.
 ### Connect with me:  
 [<img align="left" alt="naveen_twitter" width="25px" src="https://raw.githubusercontent.com/Automattic/social-logos/trunk/svg-min/twitter.svg" />][twitter]
 [<img align="left" alt="naveen_medium" width="25px" src="https://raw.githubusercontent.com/Automattic/social-logos/trunk/svg-min/medium.svg" />][medium]
-[<img align="left" alt="naveen_linkedin" width="25px" src="https://raw.githubusercontent.com/Automattic/social-logos/trunk/svg-min/linkedin.svg" />][linkedin]  
+[<img align="left" alt="naveen_linkedin" width="25px" src="https://raw.githubusercontent.com/Automattic/social-logos/trunk/svg-min/linkedin.svg" />][linkedin]   
+
+&nbsp;  
 
 ### Medium Posts  
 <!-- BLOG-POST-LIST:START -->

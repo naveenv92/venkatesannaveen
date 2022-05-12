@@ -17,11 +17,11 @@ their research.
 
 ### Latest Medium Posts  
 <!-- BLOG-POST-LIST:START -->
+- [Analyzing and Plotting NFL Data with nflfastpy and Plotly](https://towardsdatascience.com/analyzing-and-plotting-nfl-data-with-nflfastpy-and-plotly-a170a09cad6?source=rss-7779ee5bf58d------2)
 - [Creating Various Plot Types and Subplots with Plotly](https://towardsdatascience.com/creating-various-plot-types-and-subplots-with-plotly-bd727f808262?source=rss-7779ee5bf58d------2)
 - [An Introduction to Plotly for Matplotlib Users](https://towardsdatascience.com/an-introduction-to-plotly-for-matplotlib-users-9f4f0d2113bc?source=rss-7779ee5bf58d------2)
 - [Scheduling Notebook and Script Runs with GitHub Actions](https://towardsdatascience.com/scheduling-notebook-and-script-runs-with-github-actions-cc60f3ac17f2?source=rss-7779ee5bf58d------2)
 - [Intro to Comparing and Analyzing Multiple Unevenly Spaced Time-Series Signals](https://towardsdatascience.com/intro-to-comparing-and-analyzing-multiple-unevenly-spaced-time-series-signals-e46b2347972a?source=rss-7779ee5bf58d------2)
-- [Create Panel Figure Layouts in Matplotlib with Gridspec](https://towardsdatascience.com/create-panel-figure-layouts-in-matplotlib-with-gridspec-7ec79c218df0?source=rss-7779ee5bf58d------2)
 <!-- BLOG-POST-LIST:END -->
 
 [twitter]: https://twitter.com/naveenv_92

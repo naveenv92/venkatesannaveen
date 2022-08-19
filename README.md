@@ -17,7 +17,7 @@ their research.
 
 ### Latest Medium Posts  
 <!-- BLOG-POST-LIST:START -->
-- [Analyzing and Plotting NFL Data with nflfastpy and Plotly](https://towardsdatascience.com/analyzing-and-plotting-nfl-data-with-nflfastpy-and-plotly-a170a09cad6?source=rss-7779ee5bf58d------2)
+- [Analyzing and Plotting NFL Data with nfl-data-py and Plotly](https://towardsdatascience.com/analyzing-and-plotting-nfl-data-with-nflfastpy-and-plotly-a170a09cad6?source=rss-7779ee5bf58d------2)
 - [Creating Various Plot Types and Subplots with Plotly](https://towardsdatascience.com/creating-various-plot-types-and-subplots-with-plotly-bd727f808262?source=rss-7779ee5bf58d------2)
 - [An Introduction to Plotly for Matplotlib Users](https://towardsdatascience.com/an-introduction-to-plotly-for-matplotlib-users-9f4f0d2113bc?source=rss-7779ee5bf58d------2)
 - [Scheduling Notebook and Script Runs with GitHub Actions](https://towardsdatascience.com/scheduling-notebook-and-script-runs-with-github-actions-cc60f3ac17f2?source=rss-7779ee5bf58d------2)
